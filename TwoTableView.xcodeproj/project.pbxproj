@@ -501,6 +501,7 @@
 				8528C5091D2BB2810038E012 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8528C50A1D2BB2810038E012 /* Build configuration list for PBXNativeTarget "TwoTableViewTests" */ = {
 			isa = XCConfigurationList;
@@ -509,6 +510,7 @@
 				8528C50C1D2BB2810038E012 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8528C50D1D2BB2810038E012 /* Build configuration list for PBXNativeTarget "TwoTableViewUITests" */ = {
 			isa = XCConfigurationList;
@@ -517,6 +519,7 @@
 				8528C50F1D2BB2810038E012 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

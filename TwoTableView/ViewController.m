@@ -27,7 +27,7 @@
     [super viewDidLoad];
     
     [self creatTableView];
-    
+    NSLog(@"----");
     //选中tableV1的第一行
     [self tableView:tableV1 didSelectRowAtIndexPath:[NSIndexPath indexPathForRow:0 inSection:0]];
     [tableV1 selectRowAtIndexPath:[NSIndexPath indexPathForRow:0 inSection:0] animated:YES scrollPosition:UITableViewScrollPositionTop];
